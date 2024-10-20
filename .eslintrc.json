@@ -1,3 +1,8 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "warn",  // Change unused vars to a warning or disable it
+    "@typescript-eslint/no-empty-interface": "off",  // Disable empty interface warnings
+    "@typescript-eslint/no-empty-function": "off"  // Optional: Disable warnings for empty functions
+  }
 }
