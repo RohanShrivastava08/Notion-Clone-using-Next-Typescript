@@ -7,7 +7,6 @@ import { Doc } from "@/convex/_generated/dataModel";
 import { useCoverImage } from "@/hooks/use-cover-image";
 import { useMutation } from "convex/react";
 import { ImageIcon, Smile, X } from "lucide-react";
-import { initialize } from "next/dist/server/lib/render-server";
 import { ElementRef, useRef, useState } from "react";
 import TextareaAutosize from "react-textarea-autosize";
 
