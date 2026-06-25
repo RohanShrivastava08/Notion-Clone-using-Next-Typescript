@@ -1,10 +1,5 @@
 #  🚀 Notion Clone with Next.js, Tailwind CSS, shadcn ui, Convex & Clerk
 
-- Welcome to my Notion Clone project!
-
-- This full-stack app is built with modern technologies to offer a sleek, scalable, and highly interactive user experience.
-
-- From seamless file uploads to real-time data handling, this project is packed with features that showcase the power of Next.js and more.
 
 ![Screenshot (521)](https://github.com/user-attachments/assets/bb14d3e8-544d-4e24-abde-4ddc15e3bb4f)
 
@@ -13,6 +8,12 @@
 ![Screenshot (529)](https://github.com/user-attachments/assets/53ec6df7-e5e4-455e-b773-744eb05556a5)
 
 ![Screenshot (532)](https://github.com/user-attachments/assets/568f4bfc-a709-486e-a8dc-079377191dce)
+
+- Welcome to my Notion Clone project!
+
+- This full-stack app is built with modern technologies to offer a sleek, scalable, and highly interactive user experience.
+
+- From seamless file uploads to real-time data handling, this project is packed with features that showcase the power of Next.js and more.
 
 
 ## 📋 Table of Contents
